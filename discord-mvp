@@ -1,0 +1,11 @@
+# Clone your repository
+git clone <https://github.com/jrhodge643-cmd/discord-mvp-app>
+cd <YOUR_PROJECT_NAME>
+
+# Install dependencies and run
+npm install
+npm run dev
+
+npm install
+DISCORD_TOKEN=MTQyMDc2MDA4NjY4MjQwMjkyNw.GrZ0y_.O7xJ3jSeYHbUhMtbYTOho6Dzv02GG-4Bl6DLAQ
+npm run dev
